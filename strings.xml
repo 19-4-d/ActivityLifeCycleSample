@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">アクティビティライフサイクル サンプル</string>
+    <string name="btn_next">次へ</string>
+    <string name="btn_previous">戻る</string>
+</resources>
